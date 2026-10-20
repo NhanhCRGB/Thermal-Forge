@@ -1,4 +1,4 @@
-# Thermal-Forge
+# Thermal Forge (Vibe Coding Project)
 Interactive PC cooling simulator for estimating CPU/GPU temperatures, visualizing PC builds in 3D, comparing air vs liquid cooling, and finding the right CPU cooler for your PC.
 
 # ThermalForge — PC Cooling Studio
@@ -23,6 +23,8 @@ ThermalForge is an interactive PC cooling simulator designed to help users under
 - CSS3
 - JavaScript
 - Three.js for 3D visualization
+- Claude Sonnet 5.5
+- Chatgpt Astra 6
 - Lucide icons
 - Google Fonts
 
