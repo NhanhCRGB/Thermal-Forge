@@ -6,7 +6,7 @@ An interactive PC cooling simulator for estimating CPU/GPU temperatures, visuali
 
 - **PC Thermal Estimator** — Estimate CPU and GPU temperatures based on hardware and cooling configurations.
 - **3D PC Build Visualization** — Explore a visual representation of your PC build.
-- **Air vs. Liquid Cooling Simulator** — Compare different cooling solutions and their potential performance.
+- **Air vs Liquid Cooling Simulator** — Compare different cooling solutions and their potential performance.
 - **Cooler Finder** — Explore CPU cooler options for your build.
 - **Advanced Heatsink Lab** — Learn about heatsink designs and the principles behind heat dissipation.
 - **Theme Support** — Switch between dark, light, and system themes.
