@@ -23,9 +23,6 @@ ThermalForge is an interactive PC cooling simulator designed to help users under
 - CSS3
 - JavaScript
 - Three.js for 3D visualization
-- Claude Opus 5.5
-- Claude Sonnet 5.5
-- Chatgpt Astra 6
 - Lucide icons
 - Google Fonts
 
