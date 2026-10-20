@@ -34,7 +34,7 @@ ThermalForge is an interactive PC cooling simulator designed to help users under
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/ThermalForge.git
+   git clone https://github.com/NhanhCRGB/ThermalForge.git
    ```
 
 2. Open the project folder.
