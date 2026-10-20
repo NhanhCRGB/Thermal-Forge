@@ -50,7 +50,7 @@ This project was developed with assistance from artificial intelligence (AI) too
 
 The resulting code and content were reviewed and adapted as needed. However, the project may still contain errors, inaccuracies, or limitations.
 
-ThermalForge is intended for educational and simulation purposes. Its temperature estimates, cooling comparisons, and component recommendations are approximations and should not be treated as guaranteed real-world results.
+ThermalForge is intended for educational and simulation purposes. Its temperature estimates, cooling comparisons, and component recommendations are approximations and should not be treated as guaranteed real results.
 
 AI-assisted code and content should be independently reviewed and tested before being reused or modified in other projects.
 
@@ -58,6 +58,3 @@ AI-assisted code and content should be independently reviewed and tested before 
 
 ThermalForge aims to make PC cooling concepts more accessible through interactive simulations and visualizations, helping users better understand thermal performance and cooling options before building or upgrading a PC.
 
-## License
-
-No license has been specified yet. Add a `LICENSE` file if you intend to define how others may use, modify, and distribute this project.
